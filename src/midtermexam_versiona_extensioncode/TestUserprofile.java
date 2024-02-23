@@ -7,8 +7,7 @@ package midtermexam_versiona_extensioncode;
 import java.util.Scanner;
 
 /**
- * Aman
- * tiger shroff
+ * math
  * @author aman
  */
 public class TestUserprofile {
