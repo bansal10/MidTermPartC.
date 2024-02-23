@@ -6,7 +6,7 @@
 package midtermexam_versiona_extensioncode;
 
 /**
- * aman mid exam
+ * aman mid 
  * The user profile for the OnlineVids system. The user has a userID
  * and a favourite genre that must be one of the choices in the
  * genres array. This code is to be used for SYST 17796 midterm exam.
